@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Blaze",
+			"path": "../../../Documents/GitHub/Blaze"
+		},
+		{
+			"name": "static",
+			"path": "../static"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
